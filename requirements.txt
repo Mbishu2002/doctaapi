@@ -22,8 +22,6 @@ imageio-ffmpeg==0.5.1
 iso639==0.1.4
 jmespath==1.0.1
 langtable==0.0.68
-libcomps==0.1.20
-libdnf==0.73.3
 louis==3.28.0
 lxml==5.1.0
 Mako==1.2.3
