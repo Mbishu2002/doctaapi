@@ -36,7 +36,6 @@ ply==3.11
 productmd==1.38
 proglog==0.1.10
 ptyprocess==0.7.0
-pwquality==1.4.5
 pycairo==1.25.1
 pycparser==2.20
 pycrypto==2.6.1
